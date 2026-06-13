@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.login-card {
+    width: 400px;
+    border-radius: 10px;
+}
+
+.product-img {
+    height: 250px;
+    object-fit: cover;
+}
